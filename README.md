@@ -1,2 +1,2 @@
-# MNIST and FMNIST classification using linear and convolutional neural networks
+# Binary and MultiClass classification using linaer and convolutional neural networks. 
 
